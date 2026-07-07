@@ -1,11 +1,11 @@
 ## Hi, I'm Ajibola 
-## Quantitative Data Analyst & Clinical Researcher
+## Quantitative Data Analyst & Biomedical Researcher
 Bridging rigorous scientific methodology with actionable business intelligence.
 ---
-I specialize in evaluating complex, multi-variable datasets to drive operational efficiency, predictive risk modeling, and strategic decision-making. With a background spanning elite-level clinical research and high-volume commercial operations, I leverage Advanced SQL, Python, R, and enterprise BI tools to transform raw data into clear, compelling narratives.**
+I specialize in evaluating complex, multi-variable datasets to drive operational efficiency, predictive risk modeling, and strategic decision-making. With a background spanning elite-level biomedical research and high-volume commercial operations, I leverage Advanced SQL, Python, R, and enterprise BI tools to transform raw data into clear, compelling narratives.**
 ---
 ## What I'm Working On
-- Clinical Researcher & Data Analyst at ReBTReL (Since Oct 2024): Applying advanced statistical techniques in R and Python to biological risk factors, multi-variable clinical cohorts, and pharmacological datasets.
+- Scientific Researcher & Data Analyst at ReBTReL (Since Oct 2024): Applying advanced statistical techniques in R and Python to biological risk factors, multi-variable clinical cohorts, and pharmacological datasets.
 - Data & Business Analyst at SQI College of ICT: Building automated SQL extraction pipelines, P&L forecasts, and scalable Power BI dashboards to drive institutional strategy.
 - Peer-Reviewed Publication: Recently published quantitative pharmacological research in Elsevier (Steroids, Vol. 228), leveraging advanced predictive modeling.
 - Scientific Leadership: Directing a cross-functional Health Research Writing Group to execute rigorous quantitative methodologies.
