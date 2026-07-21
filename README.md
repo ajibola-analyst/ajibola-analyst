@@ -1,5 +1,5 @@
 ## Hi, I'm Ajibola 
-## Quantitative Data Analyst & Biomedical Researcher
+## Quantitative Data Analyst & Researcher
 Bridging rigorous scientific methodology with actionable business intelligence.
 ---
 I specialize in evaluating complex, multi-variable datasets to drive operational efficiency, predictive risk modeling, and strategic decision-making. With a background spanning elite-level biomedical research and high-volume commercial operations, I leverage Advanced SQL, Python, R, and enterprise BI tools to transform raw data into clear, compelling narratives.**
