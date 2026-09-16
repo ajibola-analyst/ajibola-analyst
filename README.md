@@ -18,7 +18,7 @@ Quantitative Analyst and Researcher with expertise in converting complex, multi-
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages & Querying** | Python, R, SQL (PostgreSQL, SQL Server, Oracle) |
+| **Languages & Querying** | Python, R, SQL |
 | **Data Science & ML** | Scikit-Learn, XGBoost, LightGBM, Random Forest, Isolation Forest, Dimensionality Reduction (PCA) |
 | **Analytics & BI** | Power BI, Tableau, Streamlit, Advanced Excel (Power Query, Data Modeling) |
 | **Data Engineering** | Automated ETL Pipelines, Schema Management, Data Wrangling, Relational Database Structuring |
