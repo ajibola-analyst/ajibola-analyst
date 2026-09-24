@@ -1,12 +1,12 @@
 # Ajibola Ayomide Odeyemi
-### Data Analyst & Research Scientist
+### Data Analyst & Health Researcher
 *Bridging Precision, Statistical Rigor, and Commercial Decision Engineering*
 
 ---
 
 ## Executive Profile
 
-Quantitative Analyst and Researcher with expertise in converting complex, multi-variable datasets into scalable business intelligence, predictive risk models, and operational workflows. My background bridges bio-medical research methodologies and commercial data analytics, applying statistical modeling to solve high-stakes problems in healthcare, real estate technology, and corporate finance.
+Quantitative/Quanlitative Analyst and Researcher with expertise in converting complex, multi-variable datasets into scalable business intelligence, predictive risk models, and operational workflows. My background bridges bio-medical research methodologies and commercial data analytics, applying statistical modeling to solve high-stakes problems in healthcare, real estate technology, and corporate finance.
 
 - **Data Engineering & Analytics:** Advanced SQL, Python (Pandas, Scikit-Learn, XGBoost, LightGBM), R, and PostgreSQL database architecture.
 - **Business Intelligence:** Enterprise Power BI dashboards, Tableau visual analytics, and Streamlit application development.
